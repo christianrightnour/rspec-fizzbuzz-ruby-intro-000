@@ -4,8 +4,8 @@ def fizzbuzz(int)
   end
 elsif int % 5 == 0
   "Buzz"
-end
+  end
 else int % 3 and 5 == 0
   "FizzBuzz"
-end
+  end
 end# See README.md for instructions on how to do this
