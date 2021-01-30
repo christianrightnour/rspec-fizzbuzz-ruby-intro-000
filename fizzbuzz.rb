@@ -5,4 +5,5 @@ def fizzbuzz(int)
     "Buzz"
   else int % 3 and 5 ==0
     "FizzBuzz"
+  end
 end# See README.md for instructions on how to do this
